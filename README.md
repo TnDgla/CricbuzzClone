@@ -100,13 +100,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Install Angular 17 and set up the project.
      - **Reading:** [Angular 17 Setup Guide](https://v17.angular.io/guide/setup-local)
-     - **Video:** [Angular Navbar Setup](https://www.youtube.com/watch?v=Zxwq3aW9ctU)
+     - **Video:** [Angular Navbar Setup](https://www.youtube.com/watch?v=0LhBvp8qpro&t=333s)
   2. Create a responsive navbar.
      - **Reading:** [Angular Components Guide](https://angular.io/guide/component-overview)
-     - **Video:** [Create Navbar in Angular](https://www.youtube.com/watch?v=TeZdo8mx0gc)
+     - **Video:** [Create Navbar in Angular](https://www.youtube.com/watch?v=sjZOSTjx8h0)
   3. Set up MongoDB and import `db.json` file.
      - **Reading:** [MongoDB Compass Guide](https://www.mongodb.com/docs/compass/)
-     - **Video:** [Install MongoDB Compass](https://www.youtube.com/watch?v=uj4OYk5nKCg)
+     - **Video:** [Install MongoDB Compass](https://www.youtube.com/watch?v=J6mDkcqU_ZE&t=203s)
 
 - **Deliverables:**
   - Project setup with a responsive navbar.
@@ -122,7 +122,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Express.js Crash Course](https://www.youtube.com/watch?v=7H_QH9nipNs)
   2. Design schedule and team pages in Angular.
      - **Reading:** [Angular Router Documentation](https://angular.io/guide/router)
-     - **Video:** [Angular Routing Tutorial](https://www.youtube.com/watch?v=3qBXWUpoPHo)
+     - **Video:** [Angular Routing Tutorial](https://www.youtube.com/watch?v=ik-5twMh2Vc&list=PL_euSNU_eLbcQNN3J9bmQfoKA44J87FCV)
 
 - **Deliverables:**
   - Functional schedule and team pages integrated with APIs.
@@ -134,10 +134,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Integrate Socket.IO for real-time score updates.
      - **Reading:** [Socket.IO Guide](https://socket.io/docs/v4/)
-     - **Video:** [Real-Time Updates with Socket.IO](https://www.youtube.com/watch?v=O6JcOfhHz8k)
+     - **Video:** [Real-Time Updates with Socket.IO](https://www.youtube.com/watch?v=UUddpbgPEJM&t=905s)
   2. Create a page for player statistics.
      - **Reading:** [Angular Components](https://angular.io/guide/component-overview)
-     - **Video:** [Build Dynamic Components](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+     - **Video:** [Build Dynamic Components](https://www.youtube.com/watch?v=23o0evRtrFI)
 
 - **Deliverables:**
   - Live scores displayed on the match page.
@@ -153,7 +153,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Send Emails with Node.js](https://www.youtube.com/watch?v=-rcRf7yswfM)
   2. Create a notification management interface.
      - **Reading:** [Angular Forms Guide](https://angular.io/guide/forms-overview)
-     - **Video:** [Angular Forms Tutorial](https://www.youtube.com/watch?v=kK_Wqx3RnHk)
+     - **Video:** [Angular Forms Tutorial](https://www.youtube.com/watch?v=-bGgjgx3fGs&t=2s)
 
 - **Deliverables:**
   - Email notifications for match updates.
@@ -166,10 +166,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Test APIs and UI components.
      - **Reading:** [Testing Angular Apps](https://angular.io/guide/testing-overview)
-     - **Video:** [Testing Angular Applications](https://www.youtube.com/watch?v=VJov5QWEKE4)
+     - **Video:** [Testing Angular Applications](https://www.youtube.com/watch?v=66o_Th-FT7w)
   2. Deploy the application using a cloud platform.
      - **Reading:** [Angular Deployment Guide](https://angular.io/guide/deployment)
-     - **Video:** [Deploy Angular Apps](https://www.youtube.com/watch?v=l134cBAJCuc)
+     - **Video:** [Deploy Angular Apps](https://www.youtube.com/watch?v=vwyvMZStS54)
 
 - **Deliverables:**
   - Fully deployed Cricbuzz IPL Clone accessible via public URL.
